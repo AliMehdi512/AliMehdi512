@@ -44,10 +44,6 @@ I'm a passionate and driven AI engineer, researcher, and founder of ACS. I speci
 
 ---
 
-### 📈 GitHub Stats
-![Ali Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliMehdi512&show_icons=true&theme=tokyonight)
-
----
 
 ### 📫 Reach Out
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ali-mehdi-dev579/)
